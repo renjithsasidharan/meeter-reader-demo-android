@@ -1,0 +1,24 @@
+<!--
+  ~ Created by Renjith Sasidharan on 21/02/22, 11:57 PM
+  ~ renjithks@gmail.com
+  ~ Last modified 21/02/22, 11:57 PM
+  ~ Copyright (c) 2022.
+  ~ All rights reserved.
+  -->
+
+<resources>
+    <string name="tfe_ocr_app_name" translatable="false">Meeter Reader</string>
+    <string name="tfe_ocr_gpu" translatable="false">GPU</string>
+    <string name="tfe_ocr_run_model" translatable="false">Run model</string>
+    <string name="tfe_ocr_select_image_from_gallery" translatable="false">Gallery</string>
+    <string name="tfe_ocr_texts_found" translatable="false">Reading Found</string>
+    <string name="tfe_ocr_no_text_found" translatable="false">No Reading Found</string>
+    <string name="tfe_using_first_image" translatable="false">You are using the first image</string>
+    <string name="tfe_using_second_image" translatable="false">You are using the second image</string>
+    <string name="tfe_using_third_image" translatable="false">You are using the third image</string>
+    <string name="tfe_using_gallery_image" translatable="false">You are using image from gallery</string>
+    <string name="tfe_tf_image_description" translatable="false">TensorFlow image</string>
+    <string name="tfe_first_image_description" translatable="false">First image</string>
+    <string name="tfe_second_image_description" translatable="false">Second image</string>
+    <string name="tfe_third_image_description" translatable="false">Third image</string>
+</resources>

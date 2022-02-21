@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Renjith Sasidharan on 21/02/22, 11:57 PM
+  ~ renjithks@gmail.com
+  ~ Last modified 21/02/22, 11:57 PM
+  ~ Copyright (c) 2022.
+  ~ All rights reserved.
+  -->
+
+<resources>
+    <dimen name="tfe_is_preview_size">250dp</dimen>
+    <dimen name="tfe_bottom_sheet_corner_radius">15dp</dimen>
+    <dimen name="tfe_bottom_sheet_top_padding">8dp</dimen>
+</resources>

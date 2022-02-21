@@ -1,0 +1,19 @@
+<!--
+  ~ Created by Renjith Sasidharan on 21/02/22, 11:57 PM
+  ~ renjithks@gmail.com
+  ~ Last modified 21/02/22, 11:57 PM
+  ~ Copyright (c) 2022.
+  ~ All rights reserved.
+  -->
+
+<resources>
+
+  <!-- Base application theme. -->
+  <style name="AppTheme.OCR" parent="Theme.MaterialComponents.Light.NoActionBar">
+    <!-- Customize your theme here. -->
+    <item name="colorPrimary">@color/tfe_color_primary</item>
+    <item name="colorPrimaryDark">@color/tfe_color_primary_dark</item>
+    <item name="colorAccent">@color/tfe_color_accent</item>
+  </style>
+
+</resources>

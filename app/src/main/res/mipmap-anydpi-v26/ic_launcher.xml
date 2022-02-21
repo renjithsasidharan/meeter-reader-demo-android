@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Renjith Sasidharan on 21/02/22, 11:57 PM
+  ~ renjithks@gmail.com
+  ~ Last modified 21/02/22, 11:57 PM
+  ~ Copyright (c) 2022.
+  ~ All rights reserved.
+  -->
+
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@android:color/white"/>
+    <foreground android:drawable="@mipmap/ic_launcher_foreground"/>
+</adaptive-icon>
